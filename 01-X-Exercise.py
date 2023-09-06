@@ -9,7 +9,7 @@ print(f"Subject: Python Beginner Books Request for School Library")
 print(f"Dear {principleName},")
 
 content = '''
-I'm wri􀆟ng to request Python beginner books for our library. Python's user-friendly approach makes
+I'm writing to request Python beginner books for our library. Python's user-friendly approach makes
 it an ideal starting point for coding exploration, providing students with flexible learning, inclusivity,
 and holistic skill development.
 Incorporating these books would:
